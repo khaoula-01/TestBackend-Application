@@ -112,7 +112,7 @@ Build Docker Image
 ## api endpoints
 The following are the main API endpoints:
 - **GET :**  **/customers**: Get all customers.
-- **GET:** //**/customers/{id}**: Get a specific customer by ID.
-- **POST:** //**/customers**: Create a new customer.
-- **PUT:** //**/customers/{id}**: Update a specific customer.
-- **DELETE:** //**/customers/{id}**: Delete a specific customer by ID. 
+- **GET:** **/customers/{id}**: Get a specific customer by ID.
+- **POST:** **/customers**: Create a new customer.
+- **PUT:** **/customers/{id}**: Update a specific customer.
+- **DELETE:** **/customers/{id}**: Delete a specific customer by ID. 
